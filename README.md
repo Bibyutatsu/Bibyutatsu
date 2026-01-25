@@ -27,13 +27,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bibyutatsu&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Bibyutatsu&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Bibyutatsu/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Bibyutatsu&style=flat-square&color=blue" />
 </p>
 
 ### 🐍 Contribution Snake
