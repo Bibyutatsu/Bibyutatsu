@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Bibyutatsu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Bibyutatsu&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
@@ -48,4 +48,6 @@
 
 <hr>
 
-*Shoutout to [@anuraghazra](https://github.com/anuraghazra) for [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<p align="center">
+  <sub>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a>, <a href="https://skillicons.dev">Skill Icons</a>, <a href="https://github.com/Platane/snk">Snk</a> & <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a></sub>
+</p>
