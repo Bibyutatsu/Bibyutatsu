@@ -27,13 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bibyutatsu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibyutatsu&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bibyutatsu&theme=react-dark" />
 </div>
 
 <br>
@@ -55,5 +49,5 @@
 <hr>
 
 <p align="center">
-  <sub>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>, <a href="https://github.com/ryo-ma/github-profile-trophy">Profile Trophy</a>, <a href="https://github.com/ashutosh00710/github-readme-activity-graph">Activity Graph</a>, <a href="https://skillicons.dev">Skill Icons</a>, <a href="https://github.com/Platane/snk">Snk</a> & <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a></sub>
+  <sub>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>, <a href="https://github.com/ashutosh00710/github-readme-activity-graph">Activity Graph</a>, <a href="https://skillicons.dev">Skill Icons</a>, <a href="https://github.com/Platane/snk">Snk</a> & <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a></sub>
 </p>
