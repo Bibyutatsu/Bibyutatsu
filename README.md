@@ -50,8 +50,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- No posts yet — workflow will update this automatically!
-<!-- BLOG-POST-LIST:END -->
+- [Unlocking Multi-Omics Analysis with proEMOGI: A PyTorch Implementation](https://bibyutatsu.github.io/Blogs/2021/04/proemogi/)
+- [proGENTRL: PyTorch Lightning Implementation for Molecule Generation](https://bibyutatsu.github.io/Blogs/2020/06/proGENTRL/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
