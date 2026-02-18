@@ -32,22 +32,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bibyutatsu&show_icons=true&theme=tokyonight&line_height=27&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bibyutatsu&theme=tokyonight&hide=c,makefile&hide_border=true&layout=compact" />
-</div>
-
-<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Bibyutatsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bibyutatsu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -95,5 +82,5 @@
 <hr>
 
 <p align="center">
-  <sub>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>, <a href="https://github.com/ashutosh00710/github-readme-activity-graph">Activity Graph</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a>, <a href="https://github.com/ryo-ma/github-profile-trophy">Profile Trophy</a>, <a href="https://github.com/PiyushSuthar/github-readme-quotes">Readme Quotes</a>, <a href="https://skillicons.dev">Skill Icons</a>, <a href="https://github.com/Platane/snk">Snk</a> & <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a></sub>
+  <sub>Powered by <a href="https://github.com/ashutosh00710/github-readme-activity-graph">Activity Graph</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a>, <a href="https://github.com/PiyushSuthar/github-readme-quotes">Readme Quotes</a>, <a href="https://skillicons.dev">Skill Icons</a>, <a href="https://github.com/Platane/snk">Snk</a> & <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a></sub>
 </p>
