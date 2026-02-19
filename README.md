@@ -50,6 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Vanilla RAG: A Complete Guide to State-of-the-Art Retrieval-Augmented Generation](https://bibyutatsu.github.io/Blogs/2026/02/RAG/)
 - [Unlocking Multi-Omics Analysis with proEMOGI: A PyTorch Implementation](https://bibyutatsu.github.io/Blogs/2021/04/proemogi/)
 - [proGENTRL: PyTorch Lightning Implementation for Molecule Generation](https://bibyutatsu.github.io/Blogs/2020/06/proGENTRL/)<!-- BLOG-POST-LIST:END -->
 
