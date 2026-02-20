@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Bibyutatsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Bibyutatsu&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
   </a>
 </div>
 
