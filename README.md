@@ -14,10 +14,22 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **BlogCopilot** — an AI-powered blog writing assistant
-- 🌱 I'm fascinated with **GANs** and **PyTorch** is love
-- 💬 Ask me about **Data Science, Deep Learning, Python**
+- 🔭 I'm currently working on **[Repolect](https://github.com/Bibyutatsu/Repolect)** — Local-first semantic code intelligence via LLM reasoning
+- 🌱 I'm fascinated with **Knowledge Graphs** and **PyTorch** is love
+- 💬 Ask me about **Data Science, AI Engineering, Python**
 - 📫 Reach me at my [Blog](https://bibyutatsu.github.io/Blogs/) or open an [Issue](https://github.com/Bibyutatsu/Bibyutatsu/issues)
+
+---
+
+### 🚀 Featured Project: [Repolect](https://github.com/Bibyutatsu/Repolect)
+
+**Semantic code intelligence powered by LLM reasoning.**
+Index any codebase into a hierarchical semantic tree + knowledge graph. O(log N) vectorless search, local-first, and MCP-compatible.
+
+- 🌳 **Hierarchical Semantic Tree:** Bottom-up LLM-generated summaries for every module, file, and function.
+- 🎯 **Vectorless Search:** Navigate the semantic tree using LLM reasoning — finding actual answers, not similarity text.
+- 🕸️ **Knowledge Graph:** Maps `CALLS`, `IMPORTS`, and `EXTENDS` relations for precise dependency and impact analysis.
+- 🔌 **Full MCP Integration:** Exposes 14 powerful tools to AI editors like Cursor, Claude Code, and Antigravity.
 
 ### 🛠️ Tech Stack
 
