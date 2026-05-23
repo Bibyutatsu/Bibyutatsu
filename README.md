@@ -75,10 +75,11 @@ Index any codebase into a hierarchical semantic tree + knowledge graph. O(log N)
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SnapGrade: Cull Your Entire Photo Library Without Touching Lightroom AI](https://bibyutatsu.github.io/Blogs/2026/05/SnapGradePhotographer/)
+- [SnapGrade: A Classical CV Photo Intelligence Pipeline That Runs at 3.3 img/s on 8 GB RAM](https://bibyutatsu.github.io/Blogs/2026/05/SnapGradeTechnical/)
+- [Repolect: Reasoning-based code intelligence](https://bibyutatsu.github.io/Blogs/2026/03/Repolect/)
 - [How I Hosted Docling-Serve on Hugging Face Spaces — A Free Document AI API for Everyone](https://bibyutatsu.github.io/Blogs/2026/02/DoclingServe/)
-- [Beyond Vanilla RAG: A Complete Guide to State-of-the-Art Retrieval-Augmented Generation](https://bibyutatsu.github.io/Blogs/2026/02/RAG/)
-- [Unlocking Multi-Omics Analysis with proEMOGI: A PyTorch Implementation](https://bibyutatsu.github.io/Blogs/2021/04/proemogi/)
-- [proGENTRL: PyTorch Lightning Implementation for Molecule Generation](https://bibyutatsu.github.io/Blogs/2020/06/proGENTRL/)<!-- BLOG-POST-LIST:END -->
+- [Beyond Vanilla RAG: A Complete Guide to State-of-the-Art Retrieval-Augmented Generation](https://bibyutatsu.github.io/Blogs/2026/02/RAG/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
