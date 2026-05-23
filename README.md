@@ -14,15 +14,28 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[Repolect](https://github.com/Bibyutatsu/Repolect)** — Local-first semantic code intelligence via LLM reasoning
+- 🔭 I'm currently working on **[SnapGrade](https://github.com/Bibyutatsu/SnapGrade)** — Local-first privacy-respecting photo triage, and **[Repolect](https://github.com/Bibyutatsu/Repolect)** — Local-first semantic code intelligence via LLM reasoning
 - 🌱 I'm fascinated with **Knowledge Graphs** and **PyTorch** is love
 - 💬 Ask me about **Data Science, AI Engineering, Python**
 - 📫 Reach me at my [Blog](https://bibyutatsu.github.io/Blogs/) or open an [Issue](https://github.com/Bibyutatsu/Bibyutatsu/issues)
 
 ---
 
-### 🚀 Featured Project: [Repolect](https://github.com/Bibyutatsu/Repolect)
+### 🚀 Featured Projects
 
+#### 📸 [SnapGrade](https://github.com/Bibyutatsu/SnapGrade)
+**Local, privacy-respecting photo triage and organizer.**
+Detects blur, out-of-focus subjects, closed eyes, and exposure issues. Groups bursts, clusters faces, searches by visual semantics, and organizes folders by EXIF + quality tokens. Designed to run comfortably on Apple Silicon / macOS.
+
+- 🔍 **Intelligent Image Analysis:** Detects blur (Laplacian/FFT), exposure, composition (horizon tilt, rule-of-thirds), and subject sharpness.
+- 👥 **Face Clustering:** MediaPipe + InsightFace embeddings group faces in real-time.
+- ⚡ **Burst & Event Clustering:** Automatically groups burst shots using perceptual hashes, selects the best-of-burst, and clusters events.
+- 🔎 **Semantic Search:** MobileCLIP embeddings enable visual similarity and text-to-image search across your local library.
+- 🔌 **XMP Export:** Ratings and labels compatible with Lightroom, darktable, and Bridge.
+
+---
+
+#### 🌳 [Repolect](https://github.com/Bibyutatsu/Repolect)
 **Semantic code intelligence powered by LLM reasoning.**
 Index any codebase into a hierarchical semantic tree + knowledge graph. O(log N) vectorless search, local-first, and MCP-compatible.
 
