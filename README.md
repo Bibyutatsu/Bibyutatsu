@@ -90,11 +90,11 @@ Instant client-side dual-script search (English romanized transliteration or ব
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bibyutatsu Ebooks: 1,439 Bengali Classics, One Static Site](https://bibyutatsu.github.io/Blogs/2026/09/Ebooks/)
 - [SnapGrade: Cull Your Entire Photo Library Without Touching Lightroom AI](https://bibyutatsu.github.io/Blogs/2026/05/SnapGradePhotographer/)
 - [SnapGrade: A Classical CV Photo Intelligence Pipeline That Runs at 3.3 img/s on 8 GB RAM](https://bibyutatsu.github.io/Blogs/2026/05/SnapGradeTechnical/)
 - [Repolect: Reasoning-based code intelligence](https://bibyutatsu.github.io/Blogs/2026/03/Repolect/)
-- [How I Hosted Docling-Serve on Hugging Face Spaces — A Free Document AI API for Everyone](https://bibyutatsu.github.io/Blogs/2026/02/DoclingServe/)
-- [Beyond Vanilla RAG: A Complete Guide to State-of-the-Art Retrieval-Augmented Generation](https://bibyutatsu.github.io/Blogs/2026/02/RAG/)<!-- BLOG-POST-LIST:END -->
+- [How I Hosted Docling-Serve on Hugging Face Spaces — A Free Document AI API for Everyone](https://bibyutatsu.github.io/Blogs/2026/02/DoclingServe/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
