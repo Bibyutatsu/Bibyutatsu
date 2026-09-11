@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bibhashm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bibyutatsu.github.io/"><img src="https://img.shields.io/badge/Portfolio-00ccff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://bibyutatsu.github.io/Blogs/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+  <a href="https://bibyutatsu.github.io/ebooks/"><img src="https://img.shields.io/badge/Bangla_eBooks-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Bangla eBooks Store" /></a>
+  <a href="https://www.linkedin.com/in/bibhashm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bibhash.c.mitra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -15,6 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working on **[SnapGrade](https://github.com/Bibyutatsu/SnapGrade)** — Local-first privacy-respecting photo triage, and **[Repolect](https://github.com/Bibyutatsu/Repolect)** — Local-first semantic code intelligence via LLM reasoning
+- 📚 Built **[Bibyutatsu BookStore](https://bibyutatsu.github.io/ebooks/)** ([Repo](https://github.com/Bibyutatsu/ebooks)) — Open digital bookstore with 1,200+ free Bengali ebooks in EPUB, Kindle KFX, MOBI & PDF
 - 🌱 I'm fascinated with **Knowledge Graphs** and **PyTorch** is love
 - 💬 Ask me about **Data Science, AI Engineering, Python**
 - 📫 Reach me at my [Blog](https://bibyutatsu.github.io/Blogs/) or open an [Issue](https://github.com/Bibyutatsu/Bibyutatsu/issues)
@@ -43,6 +46,18 @@ Index any codebase into a hierarchical semantic tree + knowledge graph. O(log N)
 - 🎯 **Vectorless Search:** Navigate the semantic tree using LLM reasoning — finding actual answers, not similarity text.
 - 🕸️ **Knowledge Graph:** Maps `CALLS`, `IMPORTS`, and `EXTENDS` relations for precise dependency and impact analysis.
 - 🔌 **Full MCP Integration:** Exposes 14 powerful tools to AI editors like Cursor, Claude Code, and Antigravity.
+
+---
+
+#### 📚 [Bibyutatsu BookStore | বাংলা ডিজিটাল বইঘর](https://bibyutatsu.github.io/ebooks/) &bull; [GitHub Repo](https://github.com/Bibyutatsu/ebooks)
+**Free open-access digital bookstore with 1,200+ curated Bengali ebooks.**
+Instant client-side dual-script search (English romanized transliteration or বাংলা Unicode), author & genre filters, 3D book cards, and direct downloads in EPUB, Kindle KFX, MOBI & PDF across Feluda, Byomkesh, Humayun Ahmed, Satyajit Ray, and classic literature.
+
+- 📖 **1,200+ Curated Books:** Comprehensive digital library across iconic detective, thriller, sci-fi, and literature series.
+- ⚡ **Dual-Script Instant Search:** Search phonetically in English (e.g. `sonar kella`, `feluda`, `humayun`) or directly in Bengali script (e.g. `সোনার কেল্লা`).
+- 📱 **Multi-Format Downloads:** Direct, one-click downloads for Apple Books / Kobo (`.epub`), Amazon Kindle (`.kfx` & `.mobi`), and desktop/tablet reading (`.pdf`).
+- 🎨 **Adaptive Reading UX:** 5 custom themes (Dark, Light, Batman, Cyberpunk, Ocean) with real 3D book spine perspectives.
+- 🌐 **Live Web Store:** [bibyutatsu.github.io/ebooks](https://bibyutatsu.github.io/ebooks/) &bull; **Source Code:** [Bibyutatsu/ebooks](https://github.com/Bibyutatsu/ebooks)
 
 ### 🛠️ Tech Stack
 
